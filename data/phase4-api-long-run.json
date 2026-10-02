@@ -1,0 +1,123 @@
+[
+  {
+    "elapsedSec": 1,
+    "provider": "interpark",
+    "status": "good",
+    "sampleCount": 7,
+    "successfulSamples": 7,
+    "medianRttMs": 39.34,
+    "offsetMs": -578.25,
+    "offsetSpreadMs": 716.0,
+    "outlierCount": 1
+  },
+  {
+    "elapsedSec": 62,
+    "provider": "interpark",
+    "status": "good",
+    "sampleCount": 7,
+    "successfulSamples": 7,
+    "medianRttMs": 41.77,
+    "offsetMs": -766.0,
+    "offsetSpreadMs": 865.0,
+    "outlierCount": 0
+  },
+  {
+    "elapsedSec": 123,
+    "provider": "interpark",
+    "status": "good",
+    "sampleCount": 7,
+    "successfulSamples": 7,
+    "medianRttMs": 36.14,
+    "offsetMs": -832.0,
+    "offsetSpreadMs": 878.0,
+    "outlierCount": 0
+  },
+  {
+    "elapsedSec": 183,
+    "provider": "interpark",
+    "status": "good",
+    "sampleCount": 7,
+    "successfulSamples": 7,
+    "medianRttMs": 40.12,
+    "offsetMs": -757.0,
+    "offsetSpreadMs": 771.5,
+    "outlierCount": 0
+  },
+  {
+    "elapsedSec": 244,
+    "provider": "interpark",
+    "status": "good",
+    "sampleCount": 7,
+    "successfulSamples": 7,
+    "medianRttMs": 40.76,
+    "offsetMs": -681.25,
+    "offsetSpreadMs": 644.5,
+    "outlierCount": 1
+  },
+  {
+    "elapsedSec": 305,
+    "provider": "interpark",
+    "status": "good",
+    "sampleCount": 7,
+    "successfulSamples": 7,
+    "medianRttMs": 39.81,
+    "offsetMs": -697.0,
+    "offsetSpreadMs": 867.0,
+    "outlierCount": 0
+  },
+  {
+    "elapsedSec": 366,
+    "provider": "interpark",
+    "status": "good",
+    "sampleCount": 7,
+    "successfulSamples": 7,
+    "medianRttMs": 39.95,
+    "offsetMs": -696.25,
+    "offsetSpreadMs": 866.0,
+    "outlierCount": 1
+  },
+  {
+    "elapsedSec": 427,
+    "provider": "interpark",
+    "status": "good",
+    "sampleCount": 7,
+    "successfulSamples": 7,
+    "medianRttMs": 41.41,
+    "offsetMs": -638.0,
+    "offsetSpreadMs": 869.5,
+    "outlierCount": 1
+  },
+  {
+    "elapsedSec": 488,
+    "provider": "interpark",
+    "status": "good",
+    "sampleCount": 7,
+    "successfulSamples": 7,
+    "medianRttMs": 45.61,
+    "offsetMs": -716.5,
+    "offsetSpreadMs": 863.0,
+    "outlierCount": 0
+  },
+  {
+    "elapsedSec": 548,
+    "provider": "interpark",
+    "status": "good",
+    "sampleCount": 7,
+    "successfulSamples": 7,
+    "medianRttMs": 42.09,
+    "offsetMs": -857.5,
+    "offsetSpreadMs": 782.0,
+    "outlierCount": 0
+  },
+  {
+    "elapsedSec": 609,
+    "provider": "interpark",
+    "status": "good",
+    "sampleCount": 7,
+    "successfulSamples": 7,
+    "medianRttMs": 41.52,
+    "offsetMs": -638.0,
+    "offsetSpreadMs": 659.0,
+    "outlierCount": 1
+  }
+]
