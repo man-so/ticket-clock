@@ -1,0 +1,82 @@
+[
+  {
+    "provider": "interpark",
+    "status": "unstable",
+    "sampleCount": 7,
+    "successfulSamples": 7,
+    "failedSamples": 0,
+    "medianRttMs": 719.43,
+    "offsetMs": -132.0,
+    "spreadMs": 949.0,
+    "failureRate": 0,
+    "outliers": 0,
+    "notes": [
+      "Median RTT is above the good-quality threshold."
+    ],
+    "measuredAt": "2026-10-02T15:02:03.0600000Z"
+  },
+  {
+    "provider": "yes24",
+    "status": "unstable",
+    "sampleCount": 7,
+    "successfulSamples": 7,
+    "failedSamples": 0,
+    "medianRttMs": 850.77,
+    "offsetMs": -61029636.5,
+    "spreadMs": 5633.0,
+    "failureRate": 0,
+    "outliers": 0,
+    "notes": [
+      "Median RTT is above the good-quality threshold."
+    ],
+    "measuredAt": "2026-10-02T15:02:09.8650000Z"
+  },
+  {
+    "provider": "ticketlink",
+    "status": "unstable",
+    "sampleCount": 7,
+    "successfulSamples": 7,
+    "failedSamples": 0,
+    "medianRttMs": 769.53,
+    "offsetMs": -246.5,
+    "spreadMs": 846.0,
+    "failureRate": 0,
+    "outliers": 1,
+    "notes": [
+      "Median RTT is above the good-quality threshold."
+    ],
+    "measuredAt": "2026-10-02T15:02:16.5470000Z"
+  },
+  {
+    "provider": "melon",
+    "status": "unstable",
+    "sampleCount": 7,
+    "successfulSamples": 7,
+    "failedSamples": 0,
+    "medianRttMs": 842.39,
+    "offsetMs": -93.25,
+    "spreadMs": 393.0,
+    "failureRate": 0,
+    "outliers": 1,
+    "notes": [
+      "Median RTT is above the good-quality threshold."
+    ],
+    "measuredAt": "2026-10-02T15:02:23.3330000Z"
+  },
+  {
+    "provider": "weverse",
+    "status": "unstable",
+    "sampleCount": 7,
+    "successfulSamples": 7,
+    "failedSamples": 0,
+    "medianRttMs": 549.94,
+    "offsetMs": -338.5,
+    "spreadMs": 858.5,
+    "failureRate": 0,
+    "outliers": 0,
+    "notes": [
+      "Median RTT is above the good-quality threshold."
+    ],
+    "measuredAt": "2026-10-02T15:02:27.8750000Z"
+  }
+]
